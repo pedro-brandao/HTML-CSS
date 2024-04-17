@@ -51,7 +51,7 @@ No codigo acima posso ver que se trata de uma tag que carrega uma imagem, nela t
 - O ```alt=``` também é um parametro e seria um texto alternativo para auxiliar leitores de tela.
 - **foto.png** seria o valor do parametro.
 
-~~~html
+~~~css
 h1 {
     font-family: arial;
     font-size: 12pt;
