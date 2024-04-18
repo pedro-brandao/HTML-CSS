@@ -2,7 +2,8 @@
  Repositorio Baseado nas aulas que estou refazendo para lembrar o conteudo de HTML e CSS
 
 # Algumas anotações para que eu não esqueça.
-- [**Manual Markdown Github**](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [**Manual Markdown Github**](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br>
+
 ## Cap. 01 Aula 04 - Como a internet Funciona?
 
 Neste video o funcionamento da internet é bem esplicado e são mostradas as formas que a internet chega nas casas das pessoas.
@@ -26,8 +27,27 @@ Apartir destas informações nós conseguimos conhecer o ***Byte***, que nada ma
 **01000001** = A<br>
 E para eu saber mais sobre os dados que podem ser representados por bytes eu posso olhar a tabela de [**Código Multibyte UTF-8**](https://www.ibm.com/docs/pt-br/aix/7.3?topic=8-utf-ucs-transformation-format)<br>
 
+> [!TIP]
+> Apenas para titulo de curiosidade, este codigo Multibyte ele usa de 1 a 4 bytes para representar letras, simbolos, caracteres acentuados e até emoji.<br>
 
+### Multiplos de Byte.
+Assim como temos conversões de peso, medida e etc. Também temos conversões de multiplos de bytes.<br>
+Estes multiplos são representados por 1024 Byte. Há esta difereça para 1024 e não 1000, pois 1024 seria 2^10 que da 1024.<br>
+#### Os multiplos de Bytes são:
+- 8 Byts = 1 Byte **BT**
+- 1024 Bytes = 1 Kilobyte **KB**
+- 1024 Kilobyte = Megabyte **MB**
+- 1024 Megabyte = Gigabyte **GB**
+- 1024 Gigabyte = Terabyte **TB**
+- 1024 Terabyte = Petabyte **PB**
+- 1024 Petabyte = Exabyte **EB**
+- 1024 Exabyte = Zetabyte **ZB**
+- 1024 Zetabyte = Yotabyte **YB**
 
+## Como nos conectamos?
+Agora que sei como o computador funciona, já posso estudar sobre como nós nos conectamos.<br>
+
+(Parei no min. 11:03 da aula)
 
 ## Alguns Protocolos e seus significados.
 **FTP** - Protocolo de transferencia de arquivos.<br>
