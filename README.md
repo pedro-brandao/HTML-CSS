@@ -33,6 +33,7 @@ E para eu saber mais sobre os dados que podem ser representados por bytes eu pos
 ### Multiplos de Byte.
 Assim como temos conversões de peso, medida e etc. Também temos conversões de multiplos de bytes.<br>
 Estes multiplos são representados por 1024 Byte. Há esta difereça para 1024 e não 1000, pois 1024 seria 2^10 que da 1024.<br>
+
 #### Os multiplos de Bytes são:
 - 8 Byts = 1 Byte **BT**
 - 1024 Bytes = 1 Kilobyte **KB**
@@ -44,10 +45,13 @@ Estes multiplos são representados por 1024 Byte. Há esta difereça para 1024 e
 - 1024 Exabyte = Zetabyte **ZB**
 - 1024 Zetabyte = Yotabyte **YB**
 
+
 ## Como nos conectamos?
 Agora que sei como o computador funciona, já posso estudar sobre como nós nos conectamos.<br>
+Para entendermos como funciona a conexão, quando nos conectamos o meu computador é chamdo de Cliente! Cliente pois seria o usuario de um serviço, tudo oque navegamos na internet são serviços, desta forma somos todos clientes deles.<br>
+Agora falando dos serviços, eles estão na internet (Rede mundial de computadores). Mas como fazemos esta conexão? Geralmente quando fazemos a instalação da internet nós recebemos um aparelho, este aparelho serve para transformar as ondas senoidal que são as ondas transmitidas pela internet para as ondas quadradas que são as ondas reconhecidas pelo computador.<br>
+Este processo de transformação das ondas é chamado de Modulação (Modulation) e Demodulação (Demodulation), por isso o nome do aparelho é **MODEM**
 
-(Parei no min. 11:03 da aula)
 
 ## Alguns Protocolos e seus significados.
 **FTP** - Protocolo de transferencia de arquivos.<br>
